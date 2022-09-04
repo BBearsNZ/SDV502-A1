@@ -1,0 +1,12 @@
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\bin\Debug\net6.0\SDV502-State-cinemas.deps.json
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\bin\Debug\net6.0\SDV502-State-cinemas.dll
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\bin\Debug\net6.0\SDV502-State-cinemas.pdb
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.csproj.AssemblyReference.cache
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.AssemblyInfoInputs.cache
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.AssemblyInfo.cs
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.csproj.CoreCompileInputs.cache
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.dll
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\refint\SDV502-State-cinemas.dll
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\SDV502-State-cinemas.pdb
+C:\Users\britt\source\repos\SDV502-A1\SDV502-State-cinemas\obj\Debug\net6.0\ref\SDV502-State-cinemas.dll

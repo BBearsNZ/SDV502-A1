@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDV502-State-cinemas", "SDV502-State-cinemas.csproj", "{D2D8AC86-2DB0-406D-B4D6-6F80B0AEA276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{C1F4F564-7611-4FC6-A888-BC03EC484F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D8AC86-2DB0-406D-B4D6-6F80B0AEA276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D8AC86-2DB0-406D-B4D6-6F80B0AEA276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D8AC86-2DB0-406D-B4D6-6F80B0AEA276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D8AC86-2DB0-406D-B4D6-6F80B0AEA276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F4F564-7611-4FC6-A888-BC03EC484F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F4F564-7611-4FC6-A888-BC03EC484F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F4F564-7611-4FC6-A888-BC03EC484F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F4F564-7611-4FC6-A888-BC03EC484F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54DDD2B-A6D7-42A7-8D91-E91E56E42C24}
+	EndGlobalSection
+EndGlobal
